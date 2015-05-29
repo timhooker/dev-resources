@@ -1,7 +1,7 @@
 #Stuff I like…
 
 ##JS TOOLS
-*Free jQuery ImageZoom*
+*Free jQuery image zoom*
 
 https://github.com/elevateweb/elevatezoom
 
