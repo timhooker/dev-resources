@@ -5,18 +5,18 @@
 https://github.com/elevateweb/elevatezoom
 
 ##Sliders
-###*slick*
+####*slick*
 http://kenwheeler.github.io/slick/
-###*flexslider*
+####*flexslider*
 http://flexslider.woothemes.com/
 
-###*Input Validation*
+####*Input Validation*
 http://happyjs.com/
 
 ##WORDPRESS
-###*Great starter theme*
+####*Great starter theme*
 http://underscores.me/
-###*Contact Form*
+####*Contact Form*
 https://wordpress.org/plugins/contact-form-7/
 
 ##FONTS
@@ -29,5 +29,7 @@ http://www.thinkstockphotos.com/  // *Trone Account in LP*
 
 ##AWESOME SAUCE
 // *articles to make you go wow*
+
 http://tympanus.net/codrops/
+
 http://www.smashingmagazine.com/
