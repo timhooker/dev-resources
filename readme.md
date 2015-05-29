@@ -4,12 +4,10 @@
 *Free jQuery ImageZoom*
 https://github.com/elevateweb/elevatezoom
 
-
-
-##Sliders
-####*slick*
+####Sliders
+*slick*
 http://kenwheeler.github.io/slick/
-####*flexslider*
+*flexslider*
 http://flexslider.woothemes.com/
 
 ####*Input Validation*
