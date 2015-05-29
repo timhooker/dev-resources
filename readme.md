@@ -5,8 +5,10 @@
 https://github.com/elevateweb/elevatezoom
 
 ####Sliders
+
 *slick*
 http://kenwheeler.github.io/slick/
+
 *flexslider*
 http://flexslider.woothemes.com/
 
