@@ -2,6 +2,7 @@
 
 ##JS TOOLS
 *Free jQuery ImageZoom*
+
 https://github.com/elevateweb/elevatezoom
 
 ####Sliders
