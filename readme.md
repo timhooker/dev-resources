@@ -16,8 +16,10 @@ http://happyjs.com/
 
 
 ##WORDPRESS
+
 ####*Great starter theme*
 http://underscores.me/
+
 ####*Contact Form*
 https://wordpress.org/plugins/contact-form-7/
 
