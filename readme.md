@@ -15,6 +15,14 @@ http://flexslider.woothemes.com/
 ####*Input Validation*
 http://happyjs.com/
 
+## Design TOOLS
+
+*Adobe*
+Illustrator, InDesign, && Photoshop
+
+*Sketch*
+Great for wireframes and web exports
+
 ## Build TOOLS
 *gulp*
 http://gulpjs.com/
