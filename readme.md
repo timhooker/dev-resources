@@ -4,6 +4,9 @@
 *Free jQuery image zoom*
 https://github.com/elevateweb/elevatezoom
 
+*Angular*
+https://angularjs.org/
+
 ####Sliders
 
 *slick*
