@@ -1,11 +1,18 @@
-#Stuff I like…
+#Stuff I Use…
+
+##Web FrameWorks
+*Wordpress*
+
+*Magento*
+
+// haven't used these at a company yet
+*Angular*
+
+*Ghost*
 
 ##JS TOOLS
 *Free jQuery image zoom*
 https://github.com/elevateweb/elevatezoom
-
-*Angular*
-https://angularjs.org/
 
 ####Sliders
 
