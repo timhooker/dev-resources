@@ -2,13 +2,23 @@
 
 ##Web FrameWorks
 *Wordpress*
+https://wordpress.org/
 
 *Magento*
+http://magento.com/
 
 // haven't used these at a company yet
 *Angular*
+https://angularjs.org/
 
 *Ghost*
+https://ghost.org/
+
+*Node*
+https://nodejs.org/
+
+*Express*
+http://expressjs.com/
 
 ##JS TOOLS
 *Free jQuery image zoom*
