@@ -24,6 +24,13 @@ http://expressjs.com/
 *Free jQuery image zoom*
 https://github.com/elevateweb/elevatezoom
 
+*Lodash*
+**mostly just for templating**
+https://lodash.com/
+
+*jQuery*
+https://jquery.com/
+
 ####Sliders
 
 *slick*
